@@ -40,3 +40,8 @@ The project includes comprehensive comparisons across the models:
 *   **Interpolation**: Morphing between two real faces by traversing the latent space.
 *   **Reconstruction**: visualizing how well each model can rebuild an input image.
 *   **Likelihood Estimation**: evaluating the models on in-distribution (CelebA) vs. out-of-distribution (FashionMNIST) data.
+
+## Notes
+
+This work is produced for academic purposes as part of coursework.  
+Experiments are designed for educational exploration rather than production use.
