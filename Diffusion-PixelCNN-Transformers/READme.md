@@ -1,6 +1,6 @@
 # Diffusion, PixelCNN, and Transformers
 
-This notebook implements three different generative models for image and text generation as part of DSAI585 Assignment 2.
+This notebook implements three different generative models for image and text generation.
 
 ## Table of Contents
 1. [Diffusion Model (CelebA)](#diffusion-model)
